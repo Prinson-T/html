@@ -1,0 +1,95 @@
+.card{
+    display: inline-flex;
+    justify-content: center;  
+    margin: 20px; 
+}
+body{
+    background: radial-gradient(circle at 18.7% 37.8%, rgb(94, 88, 88) 0%, rgb(225, 234, 238) 90%);
+}
+.a1{
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(67,54,28,1) 0%, rgba(252,176,69,1) 0%, rgba(252,147,61,1) 17%, rgba(252,111,51,1) 65%, rgba(253,29,29,1) 100%);
+    margin-left: 90px;
+    border-radius: 40px;
+}
+.a2{
+    background: rgb(189,31,176);
+background: linear-gradient(90deg, rgba(189,31,176,1) 31%, rgba(100,69,252,1) 78%);
+margin-left: 94px;
+border-radius: 40px;
+}
+.a3{
+    background: rgb(149,165,201);
+background: linear-gradient(90deg, rgba(149,165,201,1) 21%, rgba(100,69,252,1) 79%);
+margin-left: 90px;
+border-radius: 40px;
+}
+.a4{
+    background: rgb(152,218,149);
+background: linear-gradient(90deg, rgba(152,218,149,1) 4%, rgba(45,180,77,1) 59%);
+margin-left: 108px;
+border-radius: 40px;
+
+background:linear-gradient(129deg, rgba(25,46,186,1) 23%, rgba(175,72,42,1) 40%, rgba(155,150,150,1) 52%);
+    -webkit-background-clip: text;
+            background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+
+
+}
+.img1{
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(67,54,28,1) 0%, rgba(252,176,69,1) 0%, rgba(252,147,61,1) 17%, rgba(252,111,51,1) 65%, rgba(253,29,29,1) 100%);
+        height: 280px;
+        width: 280px;
+    border-bottom-right-radius: 100px;
+
+}
+.img2{
+    background: rgb(189,31,176);
+    background: linear-gradient(90deg, rgba(189,31,176,1) 31%, rgba(100,69,252,1) 78%);
+    height: 280px;
+    width: 280px;
+    border-bottom-right-radius: 100px;
+}
+.img3{
+    
+    background: rgb(149,165,201);
+background: linear-gradient(90deg, rgba(149,165,201,1) 21%, rgba(100,69,252,1) 79%);
+height: 280px;
+width: 280px;
+border-bottom-right-radius: 100px;
+}
+.img4{
+    background: rgb(152,218,149);
+background: linear-gradient(90deg, rgba(152,218,149,1) 4%, rgba(45,180,77,1) 59%);
+height: 280px;
+width: 280px;
+border-bottom-right-radius: 80px;
+}
+.litle1{
+    text-align: center;
+
+}
+.litle2{
+    text-align: center;
+}
+.litle3{
+    text-align: center;
+}
+.litle4{
+    text-align: center;
+}
+.p1{
+    text-align: center;
+}
+.p2{
+    text-align: center;
+}   
+.p3{
+    text-align: center;
+}
+.p4{
+    text-align: center;
+}

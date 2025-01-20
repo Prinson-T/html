@@ -1,0 +1,9 @@
+/* This is external css */
+#a{ color: brown;
+   font-size: 50px;
+
+}
+#b{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: aqua;
+}

@@ -1,0 +1,64 @@
+body{
+    background-image: url("netflix.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.br{
+    color: red;
+    
+
+}
+.but{
+margin-left: 1062px;
+background-color:rgba(0, 0, 0, 0.103);
+color: white;
+border-radius: 5px;
+border: outset;
+}
+.but1{
+    margin-left: 1062px;
+    background-color:rgba(0, 0, 0, 0.103);
+    color: white;
+    border-radius: 5px;
+}
+.but2{
+    background-color: red;
+color: white;
+border-radius: 5px;
+}
+.but3{
+    color: white;
+}
+.head1{
+    margin-top: 100px;
+    color: white;
+    text-align: center;
+}
+.head2{
+    color: white;
+    text-align: center;
+}
+.head3{
+    color: white;
+    text-align: center;
+}
+.head4{
+    color: white;
+    text-align: center;
+}
+.input1{
+ color:black;
+ margin-left: 1px;
+}
+.input2{
+  color: rgb(255, 255, 255);
+  background-color: red;
+}
+.flex{
+    display: flex;
+    min-height: 0px;
+}
+.center{
+    justify-content: center;
+}

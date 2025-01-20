@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Combine Input Fields</title>
+</head>
+<body>
+
+    <input type="text" id="input1" placeholder="First Input">
+    <input type="text" id="input2" placeholder="Second Input">
+    <button onclick="combineInputs()">Combine</button>
+
+    <p id="result"></p>
+
+    <script>
+        function combineInputs() {
+            const input1 = document.getElementById('input1').value;
+            const input2 = document.getElementById('input2').value;
+            const combined = input1 + ' ' + input2; // Adjust the separator as needed
+            document.getElementById('result').innerText = combined;
+        }
+    </script>
+
+</body>
+</html>
