@@ -1,0 +1,88 @@
+body{
+    background: rgb(126,135,130);
+    background: linear-gradient(90deg, rgba(126,135,130,1) 0%, rgba(109,255,247,1) 0%);    
+}
+  
+.head {
+    font-size: 50px;
+    padding-top: 250px;
+    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+  
+.img {
+    width: 100%;
+}
+  
+.p {
+    font-size: 20px;
+    padding-top: 20px;
+    
+}
+  
+.about{
+    font-size: 50px;
+    padding-top: 120px;
+    font-family:fantasy;
+    
+}
+
+.phk{
+    padding-top: 120px;
+    padding-left: 20px;
+    font-family: cursive;
+}
+  
+.card-all{
+    margin-left: 15%;
+    width: 75%;
+
+   
+}
+
+.card-body{
+    text-align: center;
+}
+
+h5{
+    text-align: center;
+    padding-top: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+h1{
+    font-size: 50px;
+    padding-top: 200px;
+    font-family:fantasy;
+}
+
+.margin{
+    margin-top: 80px;
+}
+
+.experience{
+    font-size: 40px;
+    padding-top: 120px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.experienceone{
+    text-align: center;
+    padding-left: 20px;
+    font-family: cursive;
+}
+
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-top: 120px;
+    text-align: center;
+}
+
+h6{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+  
+  
+  
