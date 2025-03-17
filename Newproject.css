@@ -1,6 +1,7 @@
 body{
-    background: rgb(126,135,130);
-    background: linear-gradient(90deg, rgba(126,135,130,1) 0%, rgba(109,255,247,1) 0%);    
+        background: rgb(126,135,130);
+        background: linear-gradient(90deg, rgba(126,135,130,1) 0%, rgba(109,255,247,1) 0%);    
+  
 }
   
 .head {
@@ -16,6 +17,7 @@ body{
 .p {
     font-size: 20px;
     padding-top: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     
 }
   
@@ -27,9 +29,10 @@ body{
 }
 
 .phk{
-    padding-top: 120px;
+    text-align: center;
     padding-left: 20px;
-    font-family: cursive;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 120px;
 }
   
 .card-all{
@@ -70,7 +73,8 @@ h1{
 .experienceone{
     text-align: center;
     padding-left: 20px;
-    font-family: cursive;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 30px;
 }
 
 h2{
@@ -81,8 +85,36 @@ h2{
 
 h6{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-left: 80px;
+    padding-top: 40px;
+    
 }
 
-  
+.line{
+    border-top: 2px solid rgb(0, 0, 0);
+    inline-size: 75%;
+    margin-left: 13%;
+    margin-top: 50px;
+}
+
+.Present{
+    padding-left: 80px;
+    padding-top: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* .vertical {
+    border-right: 4px solid gray;
+    height: 800px;
+    margin-right: 50px;
+}   */
+
+.text-center{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.getin{
+    font:caption;
+}
   
   
